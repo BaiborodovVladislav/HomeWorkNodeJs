@@ -1,5 +1,5 @@
 {
-  "name": "homeworknodejs",
+  "name": "weather",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,6 @@
   "description": "",
   "dependencies": {
     "axios": "^1.7.2",
-    "dotenv": "^16.4.5",
-    "moment": "^2.30.1",
-    "yargs": "^17.7.2"
+    "dotenv": "^16.4.5"
   }
 }
