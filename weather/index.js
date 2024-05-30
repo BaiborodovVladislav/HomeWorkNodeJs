@@ -1,4 +1,3 @@
-// Подключаем нужные модули и файлы
 require('dotenv').config(); // Загружаем переменные окружения из файла .env
 const https = require('https'); // Подключаем модуль для работы с HTTPS запросами
 const config = require('./config'); // Подключаем файл конфигурации
